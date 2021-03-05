@@ -8,8 +8,11 @@ export default function TrackerItem() {
   return (
     <div className={s.wrapper}>
       <TrackerName />
-      <TrackerTime />
-      <TrackerIcons />
+      <div className={s.timeWrapper}>
+          <TrackerTime />
+          <TrackerIcons />
+      </div>
+
     </div>
   );
 }

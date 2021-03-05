@@ -1,6 +1,7 @@
 import React from "react";
+import s from "./style.module.css";
 import { LogoText } from "../../constants/componentsData";
 
 export default function Logo() {
-  return <p>{LogoText}</p>;
+  return <p className={s.text}>{LogoText}</p>;
 }

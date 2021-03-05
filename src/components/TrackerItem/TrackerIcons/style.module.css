@@ -1,0 +1,15 @@
+.wrapper {
+  display: flex;
+    width: 35%;
+  justify-content: space-between;
+}
+.iconWrapper {
+  padding: 2px 7px;
+  border: 2px solid black;
+  border-radius: 50%;
+}
+.icon {
+  color: black;
+  font-size: 10px;
+
+}

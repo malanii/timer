@@ -1,0 +1,13 @@
+.text {
+    font-family: 'PT Sans', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    padding-left: 20px;
+}
+.textActive {
+    color: #3faf6c;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    padding-left: 20px;
+}

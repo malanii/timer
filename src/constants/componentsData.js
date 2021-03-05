@@ -1,1 +1,2 @@
-export const LogoText = "TRACKER";
+export const LogoText = "tracker";
+export const InputText = "Enter tracker name";
