@@ -1,9 +1,12 @@
-import React from 'react';
+import React from "react";
+import Logo from "./components/Logo";
+import Tracker from "./containers/Tracker";
 
 function App() {
   return (
-    <div className="App">
-     App
+    <div>
+      <Logo />
+      <Tracker />
     </div>
   );
 }
