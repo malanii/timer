@@ -8,6 +8,7 @@ function App() {
     <div className={s.wrapper}>
       <Logo />
       <Tracker />
+      <p>test1</p>
     </div>
   );
 }
